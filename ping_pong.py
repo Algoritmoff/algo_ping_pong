@@ -108,4 +108,4 @@ while run:
 
         display.update()
     # цикл срабатывает каждую 0.05 секунд
-    time.delay(50)
+    time.delay(60)
